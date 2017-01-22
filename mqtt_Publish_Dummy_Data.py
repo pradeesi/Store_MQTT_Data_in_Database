@@ -1,3 +1,12 @@
+#------------------------------------------
+#--- Author: Pradeep Singh
+#--- Date: 20th January 2017
+#--- Version: 1.0
+#--- Python Ver: 2.7
+#--- Details At: https://iotbytes.wordpress.com/store-mqtt-data-from-sensors-into-sql-database/
+#------------------------------------------
+
+
 import paho.mqtt.client as mqtt
 import random, threading, json
 from datetime import datetime
